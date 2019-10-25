@@ -1,0 +1,13 @@
+Scanning dependencies of target cladPlugin
+Scanning dependencies of target cladDifferentiator
+[ 11%] Building CXX object tools/CMakeFiles/cladPlugin.dir/RequiredSymbols.cpp.o
+[ 22%] Building CXX object tools/CMakeFiles/cladPlugin.dir/ClangPlugin.cpp.o
+[ 33%] Building CXX object lib/Differentiator/CMakeFiles/cladDifferentiator.dir/ConstantFolder.cpp.o
+[ 44%] Building CXX object lib/Differentiator/CMakeFiles/cladDifferentiator.dir/DerivativeBuilder.cpp.o
+[ 55%] Building CXX object lib/Differentiator/CMakeFiles/cladDifferentiator.dir/DiffPlanner.cpp.o
+[ 66%] Building CXX object lib/Differentiator/CMakeFiles/cladDifferentiator.dir/StmtClone.cpp.o
+[ 77%] Building CXX object lib/Differentiator/CMakeFiles/cladDifferentiator.dir/Version.cpp.o
+[ 88%] Linking CXX static library libcladPlugin.a
+[ 88%] Built target cladPlugin
+[100%] Linking CXX static library libcladDifferentiator.a
+[100%] Built target cladDifferentiator

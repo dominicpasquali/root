@@ -1,0 +1,8 @@
+/usr/local/include/clad/Differentiator/BuiltinDerivatives.h
+/usr/local/include/clad/Differentiator/StmtClone.h
+/usr/local/include/clad/Differentiator/Version.h
+/usr/local/include/clad/Differentiator/DiffPlanner.h
+/usr/local/include/clad/Differentiator/Differentiator.h
+/usr/local/include/clad/Differentiator/DerivativeBuilder.h
+/usr/local/lib/libcladDifferentiator.a
+/usr/local/lib/libcladPlugin.a

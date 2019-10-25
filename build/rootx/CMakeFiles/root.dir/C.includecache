@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/default/Repos/root/root/core/clib/src/strlcpy.c
+ROOT/RConfig.hxx
+-
+unistd.h
+-
+sys/types.h
+-
+string.h
+-
+
+include/RConfigure.h
+
+include/ROOT/RConfig.hxx
+../RVersion.h
+include/RVersion.h
+RConfigure.h
+include/ROOT/RConfigure.h
+stdlib.h
+-
+features.h
+-
+AvailabilityMacros.h
+-
+TargetConditionals.h
+-
+
+include/RVersion.h
+

@@ -1,0 +1,16 @@
+/home/default/Repos/root/build/include/vdt/asin.h
+/home/default/Repos/root/build/include/vdt/atan.h
+/home/default/Repos/root/build/include/vdt/tanh.h
+/home/default/Repos/root/build/include/vdt/atan2.h
+/home/default/Repos/root/build/include/vdt/cos.h
+/home/default/Repos/root/build/include/vdt/exp.h
+/home/default/Repos/root/build/include/vdt/identity.h
+/home/default/Repos/root/build/include/vdt/inv.h
+/home/default/Repos/root/build/include/vdt/log.h
+/home/default/Repos/root/build/include/vdt/sincos.h
+/home/default/Repos/root/build/include/vdt/sin.h
+/home/default/Repos/root/build/include/vdt/sqrt.h
+/home/default/Repos/root/build/include/vdt/tan.h
+/home/default/Repos/root/build/include/vdt/vdtcore_common.h
+/home/default/Repos/root/build/include/vdt/vdtMath.h
+/home/default/Repos/root/build/lib/libvdt.so

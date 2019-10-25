@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/default/Repos/root/root/build/rmkdepend/def.h
+stdio.h
+-
+string.h
+-
+ctype.h
+-
+sys/types.h
+-
+fcntl.h
+-
+sys/stat.h
+-
+stdlib.h
+-
+
+/home/default/Repos/root/root/build/rmkdepend/mainroot.cxx
+string
+-
+signal.h
+-
+def.h
+/home/default/Repos/root/root/build/rmkdepend/def.h
+unistd.h
+-
+../../core/dictgen/res/cygpath.h
+/home/default/Repos/root/root/core/dictgen/res/cygpath.h
+
+/home/default/Repos/root/root/core/dictgen/res/cygpath.h
+stdio.h
+-
+stdlib.h
+-
+direct.h
+-
+string
+-
+

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/default/Repos/root/root/core/rootcling_stage1/../dictgen/res/rootcling_impl.h
+string
+-
+
+/home/default/Repos/root/root/core/rootcling_stage1/src/rootcling_stage1.cxx
+rootcling_impl.h
+/home/default/Repos/root/root/core/rootcling_stage1/src/rootcling_impl.h
+RConfigure.h
+/home/default/Repos/root/root/core/rootcling_stage1/src/RConfigure.h
+ROOT/RConfig.hxx
+-
+stdlib.h
+-
+
+include/RConfigure.h
+
+include/ROOT/RConfig.hxx
+../RVersion.h
+include/RVersion.h
+RConfigure.h
+include/ROOT/RConfigure.h
+stdlib.h
+-
+features.h
+-
+AvailabilityMacros.h
+-
+TargetConditionals.h
+-
+
+include/RVersion.h
+

@@ -1,0 +1,15 @@
+[ 66%] Built target cladDifferentiator
+[100%] Built target cladPlugin
+Install the project...
+-- Install configuration: "Release"
+-- Installing: /home/default/Repos/root/build/plugins/usr/local/include
+-- Installing: /home/default/Repos/root/build/plugins/usr/local/include/clad
+-- Installing: /home/default/Repos/root/build/plugins/usr/local/include/clad/Differentiator
+-- Installing: /home/default/Repos/root/build/plugins/usr/local/include/clad/Differentiator/BuiltinDerivatives.h
+-- Installing: /home/default/Repos/root/build/plugins/usr/local/include/clad/Differentiator/StmtClone.h
+-- Installing: /home/default/Repos/root/build/plugins/usr/local/include/clad/Differentiator/Version.h
+-- Installing: /home/default/Repos/root/build/plugins/usr/local/include/clad/Differentiator/DiffPlanner.h
+-- Installing: /home/default/Repos/root/build/plugins/usr/local/include/clad/Differentiator/Differentiator.h
+-- Installing: /home/default/Repos/root/build/plugins/usr/local/include/clad/Differentiator/DerivativeBuilder.h
+-- Installing: /home/default/Repos/root/build/plugins/usr/local/lib/libcladDifferentiator.a
+-- Installing: /home/default/Repos/root/build/plugins/usr/local/lib/libcladPlugin.a
