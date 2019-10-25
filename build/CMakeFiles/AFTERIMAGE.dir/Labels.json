@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/default/Repos/root/build/CMakeFiles/AFTERIMAGE"
+		},
+		{
+			"file" : "/home/default/Repos/root/build/CMakeFiles/AFTERIMAGE.rule"
+		},
+		{
+			"file" : "/home/default/Repos/root/build/CMakeFiles/AFTERIMAGE-complete.rule"
+		},
+		{
+			"file" : "/home/default/Repos/root/build/AFTERIMAGE-prefix/src/AFTERIMAGE-stamp/AFTERIMAGE-install.rule"
+		},
+		{
+			"file" : "/home/default/Repos/root/build/AFTERIMAGE-prefix/src/AFTERIMAGE-stamp/AFTERIMAGE-mkdir.rule"
+		},
+		{
+			"file" : "/home/default/Repos/root/build/AFTERIMAGE-prefix/src/AFTERIMAGE-stamp/AFTERIMAGE-download.rule"
+		},
+		{
+			"file" : "/home/default/Repos/root/build/AFTERIMAGE-prefix/src/AFTERIMAGE-stamp/AFTERIMAGE-update.rule"
+		},
+		{
+			"file" : "/home/default/Repos/root/build/AFTERIMAGE-prefix/src/AFTERIMAGE-stamp/AFTERIMAGE-patch.rule"
+		},
+		{
+			"file" : "/home/default/Repos/root/build/AFTERIMAGE-prefix/src/AFTERIMAGE-stamp/AFTERIMAGE-configure.rule"
+		},
+		{
+			"file" : "/home/default/Repos/root/build/AFTERIMAGE-prefix/src/AFTERIMAGE-stamp/AFTERIMAGE-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"AFTERIMAGE"
+		],
+		"name" : "AFTERIMAGE"
+	}
+}

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/default/Repos/root/build/CMakeFiles/VDT"
+		},
+		{
+			"file" : "/home/default/Repos/root/build/CMakeFiles/VDT.rule"
+		},
+		{
+			"file" : "/home/default/Repos/root/build/CMakeFiles/VDT-complete.rule"
+		},
+		{
+			"file" : "/home/default/Repos/root/build/VDT-prefix/src/VDT-stamp/VDT-install.rule"
+		},
+		{
+			"file" : "/home/default/Repos/root/build/VDT-prefix/src/VDT-stamp/VDT-mkdir.rule"
+		},
+		{
+			"file" : "/home/default/Repos/root/build/VDT-prefix/src/VDT-stamp/VDT-download.rule"
+		},
+		{
+			"file" : "/home/default/Repos/root/build/VDT-prefix/src/VDT-stamp/VDT-update.rule"
+		},
+		{
+			"file" : "/home/default/Repos/root/build/VDT-prefix/src/VDT-stamp/VDT-patch.rule"
+		},
+		{
+			"file" : "/home/default/Repos/root/build/VDT-prefix/src/VDT-stamp/VDT-configure.rule"
+		},
+		{
+			"file" : "/home/default/Repos/root/build/VDT-prefix/src/VDT-stamp/VDT-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"VDT"
+		],
+		"name" : "VDT"
+	}
+}

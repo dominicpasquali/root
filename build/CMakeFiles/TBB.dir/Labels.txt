@@ -1,0 +1,13 @@
+# Target labels
+ TBB
+# Source files and their labels
+/home/default/Repos/root/build/CMakeFiles/TBB
+/home/default/Repos/root/build/CMakeFiles/TBB.rule
+/home/default/Repos/root/build/CMakeFiles/TBB-complete.rule
+/home/default/Repos/root/build/TBB-prefix/src/TBB-stamp/TBB-install.rule
+/home/default/Repos/root/build/TBB-prefix/src/TBB-stamp/TBB-mkdir.rule
+/home/default/Repos/root/build/TBB-prefix/src/TBB-stamp/TBB-download.rule
+/home/default/Repos/root/build/TBB-prefix/src/TBB-stamp/TBB-update.rule
+/home/default/Repos/root/build/TBB-prefix/src/TBB-stamp/TBB-patch.rule
+/home/default/Repos/root/build/TBB-prefix/src/TBB-stamp/TBB-configure.rule
+/home/default/Repos/root/build/TBB-prefix/src/TBB-stamp/TBB-build.rule

@@ -1,0 +1,13 @@
+# Target labels
+ clad
+# Source files and their labels
+/home/default/Repos/root/build/interpreter/llvm/src/tools/cling/tools/plugins/clad/CMakeFiles/clad
+/home/default/Repos/root/build/interpreter/llvm/src/tools/cling/tools/plugins/clad/CMakeFiles/clad.rule
+/home/default/Repos/root/build/interpreter/llvm/src/tools/cling/tools/plugins/clad/CMakeFiles/clad-complete.rule
+/home/default/Repos/root/build/interpreter/llvm/src/tools/cling/tools/plugins/clad/clad-prefix/src/clad-stamp/clad-install.rule
+/home/default/Repos/root/build/interpreter/llvm/src/tools/cling/tools/plugins/clad/clad-prefix/src/clad-stamp/clad-mkdir.rule
+/home/default/Repos/root/build/interpreter/llvm/src/tools/cling/tools/plugins/clad/clad-prefix/src/clad-stamp/clad-download.rule
+/home/default/Repos/root/build/interpreter/llvm/src/tools/cling/tools/plugins/clad/clad-prefix/src/clad-stamp/clad-update.rule
+/home/default/Repos/root/build/interpreter/llvm/src/tools/cling/tools/plugins/clad/clad-prefix/src/clad-stamp/clad-patch.rule
+/home/default/Repos/root/build/interpreter/llvm/src/tools/cling/tools/plugins/clad/clad-prefix/src/clad-stamp/clad-configure.rule
+/home/default/Repos/root/build/interpreter/llvm/src/tools/cling/tools/plugins/clad/clad-prefix/src/clad-stamp/clad-build.rule

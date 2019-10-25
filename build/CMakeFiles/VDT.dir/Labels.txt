@@ -1,0 +1,13 @@
+# Target labels
+ VDT
+# Source files and their labels
+/home/default/Repos/root/build/CMakeFiles/VDT
+/home/default/Repos/root/build/CMakeFiles/VDT.rule
+/home/default/Repos/root/build/CMakeFiles/VDT-complete.rule
+/home/default/Repos/root/build/VDT-prefix/src/VDT-stamp/VDT-install.rule
+/home/default/Repos/root/build/VDT-prefix/src/VDT-stamp/VDT-mkdir.rule
+/home/default/Repos/root/build/VDT-prefix/src/VDT-stamp/VDT-download.rule
+/home/default/Repos/root/build/VDT-prefix/src/VDT-stamp/VDT-update.rule
+/home/default/Repos/root/build/VDT-prefix/src/VDT-stamp/VDT-patch.rule
+/home/default/Repos/root/build/VDT-prefix/src/VDT-stamp/VDT-configure.rule
+/home/default/Repos/root/build/VDT-prefix/src/VDT-stamp/VDT-build.rule
