@@ -1,0 +1,4 @@
+
+# DO NOT DELETE
+./myMacro_cxx.so: /home/default/Repos/root/build/include/RVersion.h /home/default/Repos/root/build/include/RConfig.h /home/default/Repos/root/build/include/TClass.h /home/default/Repos/root/build/include/TDictAttributeMap.h /home/default/Repos/root/build/include/TInterpreter.h /home/default/Repos/root/build/include/TROOT.h /home/default/Repos/root/build/include/TBuffer.h /home/default/Repos/root/build/include/TMemberInspector.h /home/default/Repos/root/build/include/TError.h /home/default/Repos/root/build/include/RtypesImp.h /home/default/Repos/root/build/include/TIsAProxy.h /home/default/Repos/root/build/include/TFileMergeInfo.h /home/default/Repos/root/build/include/TCollectionProxyInfo.h /home/default/Repos/root/build/bin/rootcling
+myMacro_cxx__ROOTBUILDVERSION= 6.19/01
